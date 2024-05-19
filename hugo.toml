@@ -1,5 +1,5 @@
 baseURL = ''
 relativeURLs = "True"
 languageCode = 'en-us'
-title = 'Nilesh Gupta Webpage'
+title = 'Nilesh Gupta'
 theme = "hugo-book"
