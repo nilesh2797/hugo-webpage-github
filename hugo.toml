@@ -2,3 +2,4 @@ baseURL = ''
 relativeURLs = "True"
 languageCode = 'en-us'
 title = 'Nilesh Gupta'
+theme = "hugo-book"
