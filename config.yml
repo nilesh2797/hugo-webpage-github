@@ -1,7 +1,8 @@
-baseURL: ""
+baseURL: "./"
 title: Nilesh Gupta
 paginate: 5
 theme: PaperMod
+relativeURLs: true
 
 enableRobotsTXT: true
 buildDrafts: true
@@ -13,7 +14,7 @@ minify:
   minifyOutput: true
 
 params:
-  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  env: development # to enable google analytics, opengraph, twitter-cards and schema.
   title: Nilesh Gupta
   description: "Nilesh Gupta Webpage"
   keywords: [Blog, Portfolio, PaperMod]
@@ -80,7 +81,7 @@ params:
     Content: 'I am a CS PhD Student at [UT Austin](https://utexas.edu) advised by [Prof. Inderjit Dhillon](https://cs.utexas.edu/~inderjit). My research interests include Large-Scale Machine Learning, Deep Learning, Web Search and Recommendation.
 Before joining my PhD, I spent 2 years at Microsoft Research India working with [Dr. Manik Varma](https://manikvarma.org) on algorithms and applications of Extreme Classification.
 I completed my undergraduate with Honours in CS from [IIT Bombay](https://www.iitb.ac.in).'
-    Update: '- I am interning at Google Deepmind Bangalore with [Prateek Jain](https://www.prateekjain.org/) for Summer 2024'
+    Update: '- I am interning at Google DeepMind Bangalore with [Prateek Jain](https://www.prateekjain.org/) for Summer 2024'
   socialIcons:
     - name: x
       url: "https://x.com/convexlull"
