@@ -1,4 +1,4 @@
-baseURL: "./"
+baseURL: "."
 title: Nilesh Gupta
 paginate: 5
 theme: PaperMod
