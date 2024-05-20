@@ -32,7 +32,7 @@ params:
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: false
   ShowWordCount: false
-  ShowRssButtonInSectionTermList: true
+  ShowRssButtonInSectionTermList: false
   UseHugoToc: true
   disableSpecial1stPost: false
   disableScrollToTop: false
@@ -104,7 +104,7 @@ I completed my undergraduate with Honours in CS from [IIT Bombay](https://www.ii
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/nilesh2797/hugo-webpage-github/content"
+    URL: "https://github.com/nilesh2797/hugo-webpage-github/tree/main/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
@@ -123,12 +123,20 @@ menu:
   main:
     - identifier: Publications
       name: Publications
-      url: papers
+      url: publications
       weight: 10
+    - identifier: Blogs
+      name: Blogs
+      url: blogs
+      weight: 20
+    - identifier: Service
+      name: Service
+      url: service
+      weight: 30
     - identifier: CV
       name: CV
       url: ./CV.pdf
-      weight: 20
+      weight: 40
     # - identifier: tags
     #   name: tags
     #   url: /tags/
