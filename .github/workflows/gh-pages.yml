@@ -22,7 +22,7 @@ jobs:
         run: git submodule update --init --recursive  # Ensure the theme is pulled if using as a submodule
 
       - name: Build
-        run: hugo --minify --theme hugo-book  # Ensure the theme is specified explicitly
+        run: hugo --minify --config config.yml  # Ensure the theme is specified explicitly
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
