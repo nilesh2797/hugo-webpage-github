@@ -2,7 +2,7 @@ baseURL: "./"
 title: Nilesh Gupta
 paginate: 5
 theme: PaperMod
-relativeURLs: true
+# relativeURLs: true
 
 enableRobotsTXT: true
 buildDrafts: true
