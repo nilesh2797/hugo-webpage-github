@@ -2,43 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Nilesh Gupta</title>
-    <link>./tags/</link>
+    <link>https://nilesh2797.github.io/hugo-webpage-github/tags/</link>
     <description>Recent content in Tags on Nilesh Gupta</description>
     <image>
       <title>Nilesh Gupta</title>
-      <url>%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://nilesh2797.github.io/hugo-webpage-github/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://nilesh2797.github.io/hugo-webpage-github/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.126.1</generator>
     <language>en</language>
     <lastBuildDate>Sun, 19 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="./tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://nilesh2797.github.io/hugo-webpage-github/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Encoder</title>
-      <link>./tags/encoder/</link>
+      <link>https://nilesh2797.github.io/hugo-webpage-github/tags/encoder/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>./tags/encoder/</guid>
+      <guid>https://nilesh2797.github.io/hugo-webpage-github/tags/encoder/</guid>
       <description></description>
     </item>
     <item>
       <title>Extreme-Classification</title>
-      <link>./tags/extreme-classification/</link>
+      <link>https://nilesh2797.github.io/hugo-webpage-github/tags/extreme-classification/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>./tags/extreme-classification/</guid>
+      <guid>https://nilesh2797.github.io/hugo-webpage-github/tags/extreme-classification/</guid>
       <description></description>
     </item>
     <item>
       <title>ICLR</title>
-      <link>./tags/iclr/</link>
+      <link>https://nilesh2797.github.io/hugo-webpage-github/tags/iclr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>./tags/iclr/</guid>
+      <guid>https://nilesh2797.github.io/hugo-webpage-github/tags/iclr/</guid>
       <description></description>
     </item>
     <item>
       <title>Information-Retrieval</title>
-      <link>./tags/information-retrieval/</link>
+      <link>https://nilesh2797.github.io/hugo-webpage-github/tags/information-retrieval/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>./tags/information-retrieval/</guid>
+      <guid>https://nilesh2797.github.io/hugo-webpage-github/tags/information-retrieval/</guid>
       <description></description>
     </item>
   </channel>

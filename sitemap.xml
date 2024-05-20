@@ -2,46 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>./categories/</loc>
+    <loc>https://nilesh2797.github.io/hugo-webpage-github/categories/</loc>
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./papers/dexml/</loc>
+    <loc>https://nilesh2797.github.io/hugo-webpage-github/papers/dexml/</loc>
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./tags/encoder/</loc>
+    <loc>https://nilesh2797.github.io/hugo-webpage-github/tags/encoder/</loc>
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./tags/extreme-classification/</loc>
+    <loc>https://nilesh2797.github.io/hugo-webpage-github/tags/extreme-classification/</loc>
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./tags/iclr/</loc>
+    <loc>https://nilesh2797.github.io/hugo-webpage-github/tags/iclr/</loc>
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./tags/information-retrieval/</loc>
+    <loc>https://nilesh2797.github.io/hugo-webpage-github/tags/information-retrieval/</loc>
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./</loc>
+    <loc>https://nilesh2797.github.io/hugo-webpage-github/</loc>
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./papers/</loc>
+    <loc>https://nilesh2797.github.io/hugo-webpage-github/papers/</loc>
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./categories/publications/</loc>
+    <loc>https://nilesh2797.github.io/hugo-webpage-github/categories/publications/</loc>
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./tags/</loc>
+    <loc>https://nilesh2797.github.io/hugo-webpage-github/tags/</loc>
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./papers/ngame/</loc>
+    <loc>https://nilesh2797.github.io/hugo-webpage-github/papers/ngame/</loc>
     <lastmod>2023-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./papers/elias/</loc>
+    <loc>https://nilesh2797.github.io/hugo-webpage-github/papers/elias/</loc>
     <lastmod>2022-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./papers/zestxml/</loc>
+    <loc>https://nilesh2797.github.io/hugo-webpage-github/papers/zestxml/</loc>
     <lastmod>2021-05-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>./papers/xreg/</loc>
+    <loc>https://nilesh2797.github.io/hugo-webpage-github/papers/xreg/</loc>
     <lastmod>2020-05-19T00:00:00+00:00</lastmod>
   </url>
 </urlset>
